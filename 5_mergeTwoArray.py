@@ -3,7 +3,6 @@ Project: leetcode_python
 Author: jinfanglin
 Date: 2020/11/16
 '''
-
 def merge(arr1,arr2):
     arr1.sort()
     arr2.sort()
